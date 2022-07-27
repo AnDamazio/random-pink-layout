@@ -1,0 +1,37 @@
+.hero__square, #hero-image {
+    background-color: #EFCBCB;
+}
+
+.hero__square.sm {
+    width: 240px;
+    height: 80px;
+}
+
+.hero__squares {
+    display: grid;
+    gap: 1.2rem;
+    grid-template-columns: repeat(2, 382px);
+    grid-template-rows: repeat(5, 123px);
+}
+
+
+#hero-image {
+    display: grid;
+    grid-template-rows: repeat(2, 123px);
+}
+
+#hero {
+    grid-auto-rows: auto;
+    height: 100%;
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: 500px 784px;
+    grid-template-rows: 692px 120px;
+}
+
+
+
+
+/* .sqr1 {
+    grid-area: header;
+} */
