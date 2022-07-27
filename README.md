@@ -1,0 +1,1 @@
+![Layout image](https://github.com/AnDamazio/random-pink-layout/blob/main/random-pink-layout.png)
