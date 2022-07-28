@@ -17,7 +17,7 @@ body,html {
 }
 
 #squares-list {
-    gap: 0.56rem;
+    gap: 0.6rem;
     display: grid;
     grid-template-columns: 23.875rem 23.875rem;
     grid-template-rows: [row1-start] 7.6875rem [row1-end] 7.6875rem
